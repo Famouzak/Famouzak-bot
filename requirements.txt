@@ -1,0 +1,6 @@
+discord.py
+requests
+aiohttp
+pytesseract
+python-dotenv
+flask
